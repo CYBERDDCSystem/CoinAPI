@@ -1,0 +1,2 @@
+# CoinAPI
+plugin CoinAPI PMMP
